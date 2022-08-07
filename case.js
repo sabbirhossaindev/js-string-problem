@@ -1,3 +1,6 @@
+/*--------------------------
+    includes, toLowerCase(), toUpperCase(), toLocaleLowerCase()
+---------------------------*/
 const userName = 'blackPink';
 const userInput = 'blackPinK';
 console.log(userName.toLowerCase());
