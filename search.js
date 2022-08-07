@@ -18,7 +18,7 @@ const doseExistOneLine = myString.toLowerCase().includes(searchString.toLowerCas
 // console.log(doseExist);
 
 /*--------------------------
-            indexOf
+            indexOf, !== -1
 ---------------------------*/
 console.log(myString.indexOf('tumi'));
 
